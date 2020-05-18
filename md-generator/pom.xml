@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <parent>
-        <artifactId>maretdata_distribution</artifactId>
+        <artifactId>marketdata_distribution</artifactId>
         <groupId>com.klt</groupId>
         <version>1.0-SNAPSHOT</version>
         <relativePath>../pom.xml</relativePath>
